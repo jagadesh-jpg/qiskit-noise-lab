@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚛️ StepWise-Q: Optimal Trotter Step Prediction & Hardware-Aware Co-Design
+# ⚛️ StepWise-Q: Optimal Trotter Step Prediction & Hardware-Aware Co-Design in 4-spinTFIM
 <div align="center">
 
 ![StepWise-Q 3D Quantum Simulation Laboratory](results/figures/simulation_3d_demo.gif)
